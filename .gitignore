@@ -1,0 +1,26 @@
+
+# CLion and JetBrains IDE files
+.idea/
+
+# CMake build directories
+cmake-build-*/
+build/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.dSYM/
+
+# Local application data
+books.txt
+
+# macOS files
+.DS_Store
